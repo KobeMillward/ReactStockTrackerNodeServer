@@ -4,6 +4,6 @@ module.exports = {
         host: '127.0.0.1',
         database: 'webcomputing',
         user: 'root',
-        password: 'QEqeQEqe908908'
+        password: ''
     }
 }
